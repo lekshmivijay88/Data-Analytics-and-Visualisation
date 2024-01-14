@@ -11,5 +11,5 @@ This project involves the collection of the raw data related to stroke predictio
 The raw data for this study i.e., the stroke prediction dataset is downloaded from the Kaggle website as a CSV file. The “stroke” feature is identified as the target (dependent) variable and the remaining features are independent variables.
 
 ## Observations
-The observations and detailed findings are included in the report Report.pdf
+The observations and detailed findings are included in the file named Report.pdf
 
